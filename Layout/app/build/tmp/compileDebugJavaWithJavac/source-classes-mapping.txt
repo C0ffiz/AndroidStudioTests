@@ -1,0 +1,4 @@
+com/teste/layout/BuildConfig.java
+ com.teste.layout.BuildConfig
+com/teste/layout/MainActivity.java
+ com.teste.layout.MainActivity

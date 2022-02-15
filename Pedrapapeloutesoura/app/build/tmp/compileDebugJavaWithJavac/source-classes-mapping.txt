@@ -1,0 +1,4 @@
+com/teste/pedrapapeloutesoura/BuildConfig.java
+ com.teste.pedrapapeloutesoura.BuildConfig
+com/teste/pedrapapeloutesoura/MainActivity.java
+ com.teste.pedrapapeloutesoura.MainActivity

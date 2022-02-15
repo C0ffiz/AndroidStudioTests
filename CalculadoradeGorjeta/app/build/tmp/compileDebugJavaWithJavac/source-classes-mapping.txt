@@ -1,0 +1,5 @@
+com/teste/calculadoradegorjeta/BuildConfig.java
+ com.teste.calculadoradegorjeta.BuildConfig
+com/teste/calculadoradegorjeta/MainActivity.java
+ com.teste.calculadoradegorjeta.MainActivity
+ com.teste.calculadoradegorjeta.MainActivity$1

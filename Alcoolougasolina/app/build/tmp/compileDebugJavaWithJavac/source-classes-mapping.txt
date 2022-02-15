@@ -1,0 +1,4 @@
+com/teste/alcoolougasolina/BuildConfig.java
+ com.teste.alcoolougasolina.BuildConfig
+com/teste/alcoolougasolina/MainActivity.java
+ com.teste.alcoolougasolina.MainActivity

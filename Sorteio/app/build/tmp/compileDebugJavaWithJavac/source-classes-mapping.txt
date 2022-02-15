@@ -1,0 +1,4 @@
+com/teste/sorteio/BuildConfig.java
+ com.teste.sorteio.BuildConfig
+com/teste/sorteio/MainActivity.java
+ com.teste.sorteio.MainActivity

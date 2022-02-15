@@ -1,0 +1,4 @@
+com/teste/frasesdodia/BuildConfig.java
+ com.teste.frasesdodia.BuildConfig
+com/teste/frasesdodia/MainActivity.java
+ com.teste.frasesdodia.MainActivity

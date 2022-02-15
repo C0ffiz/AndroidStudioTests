@@ -1,0 +1,5 @@
+com/teste/listview/BuildConfig.java
+ com.teste.listview.BuildConfig
+com/teste/listview/MainActivity.java
+ com.teste.listview.MainActivity
+ com.teste.listview.MainActivity$1

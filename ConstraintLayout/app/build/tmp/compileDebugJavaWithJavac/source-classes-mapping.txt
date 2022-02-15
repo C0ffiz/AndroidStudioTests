@@ -1,0 +1,4 @@
+com/teste/constraintlayout/MainActivity.java
+ com.teste.constraintlayout.MainActivity
+com/teste/constraintlayout/BuildConfig.java
+ com.teste.constraintlayout.BuildConfig
